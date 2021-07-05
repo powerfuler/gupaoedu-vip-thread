@@ -1,2 +1,2 @@
-# gupaoedu-vip-spring
-学习sparing源码解析
+# gupaoedu-vip-thread
+学习分布式与高并发
