@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.gupaoedu.vip.thread</groupId>
+	<artifactId>gupaoedu-vip-thread-all</artifactId>
+	<version>1.1.0</version>
+	<packaging>pom</packaging>
+
+
+    <modules>
+        <module>spring-boot-fork-join</module>
+        <module>spring-boot-thread-11</module>
+        <module>thread-05</module>
+        <module>thread-6</module>
+        <module>thread-chapter04</module>
+        <module>thread-demo</module>
+    </modules>
+</project>
