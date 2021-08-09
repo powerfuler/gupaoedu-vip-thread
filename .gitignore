@@ -5,9 +5,9 @@ statistics
 logs
 transaction-logs
 
-pom.xml
+# pom.xml
 
-*.xml.bak
+# *.xml.bak
 *rebel.xml
 rebel-*.xml
 *.classpath
