@@ -14,5 +14,6 @@
         <module>thread-6</module>
         <module>thread-chapter04</module>
         <module>thread-demo</module>
+        <module>concurrency-thread-demo</module>
     </modules>
 </project>
